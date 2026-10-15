@@ -1,0 +1,30 @@
+{
+  "key.levelupstats.open": "Open Stats Menu",
+  "key.categories.levelupstats": "Level Up Stats",
+
+  "screen.levelupstats.title": "Character Stats",
+  "screen.levelupstats.levels": "XP Levels: %s",
+  "screen.levelupstats.cap": "Stat Cap: %s (Prestige %s)",
+  "screen.levelupstats.level": "Lv %s/%s",
+  "screen.levelupstats.cost": "Cost: %s lvl",
+  "screen.levelupstats.max": "MAX",
+  "screen.levelupstats.prestige": "Prestige (raise stat cap)",
+
+  "stat.levelupstats.speed": "Speed",
+  "stat.levelupstats.speed.desc": "+%s%% movement speed",
+  "stat.levelupstats.jump": "Jump Power",
+  "stat.levelupstats.jump.desc": "+%s%% jump power, softer landings",
+  "stat.levelupstats.strength": "Strength",
+  "stat.levelupstats.strength.desc": "+%s melee damage",
+  "stat.levelupstats.luck": "Luck",
+  "stat.levelupstats.luck.desc": "+%s Fortune/Looting (no tool needed), +%s Luck",
+  "stat.levelupstats.constitution": "Constitution",
+  "stat.levelupstats.constitution.desc": "+%s max hearts",
+  "stat.levelupstats.intelligence": "Intelligence",
+  "stat.levelupstats.intelligence.desc": "XP orbs worth x%s",
+
+  "message.levelupstats.maxed": "That stat is at its maximum level.",
+  "message.levelupstats.not_enough": "You need %s XP levels to upgrade that stat.",
+  "message.levelupstats.prestige_locked": "Max out every stat (level %s) to prestige.",
+  "message.levelupstats.prestiged": "Prestige! Stat cap raised to %s."
+}
